@@ -1,0 +1,4 @@
+{
+  "server_url": "amqp://localhost",
+  "server_rate": 100
+}
